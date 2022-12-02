@@ -60,9 +60,11 @@ SOLUTION
 
 - CSS
 
-- REACT / Components , Props , Hooks etc.
+- REACT / Components , Props , Hooks , Axios CRUD operations etc.
 
 - Typescript
+
+- Mock API
 
 
 ### At the end of the project, i will be able to;
